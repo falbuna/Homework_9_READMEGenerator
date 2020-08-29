@@ -1,7 +1,7 @@
 {
-  "name": "static-site",
+  "name": "readmegenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Homework for Week 9",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falbuna/Readme_Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/falbuna/Readme_Generator/issues"
+  },
+  "homepage": "https://github.com/falbuna/Readme_Generator#readme",
+  "devDependencies": {}
 }
