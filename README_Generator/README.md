@@ -1,26 +1,26 @@
 # Project Alpha
 
-[https://img.shields.io/badge/License-MIT-blue]
+(https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-This project allowed me to do some stuff.
+It allows you to do some stuff.
 
 ## Installation
-First you do this. Then that. Lastly, that.
+First this. Then that. Lastly that.
 
 ## Usage
-Do this.
+Do that.
 
 # License
 This project is covered under the MIT license.
 
 ## Contributing
-This guy.
+That one guy.
 
 ## Tests
-Tests.
+All the tests belong to us.
 
 ## Questions
-If you have any questions regarding this project or README, please reach me at: falbuna1
+If you have any questions regarding this project or README, please reach me at: falbuna1@gmail.com
 
 My Github can be found here: [https://github.com/falbuna/](https://github.com/falbuna/)
