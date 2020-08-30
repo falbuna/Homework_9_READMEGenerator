@@ -2,26 +2,19 @@ const inquirer = require('inquirer');
 const util = require('util');
 const fs = require('fs');
 
+const generateMarkdown = require("./utils/generateMarkdown.js")
+
 const writeREADME = util.promisify(fs.writeFile);
-
-function getREADMEOutput(questions){
-    const title = questions.Title;
-    const description = questions.Description;
-
-    return `# ${title} \n## Description\n${description}
-    
-    `;
-}
 
 // array of questions for user
 const questions = [
     {
-        name: 'Title',
-        message: 'What is the title of your Application?'
+        name: 'title',
+        message: 'What would you like to title of your README?'
     },
     {
-        name: 'Description',
-        message: 'Describe the Project'
+        name: 'description',
+        message: 'Please describe the Project.'
     }
 ];
 
@@ -33,11 +26,11 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
     inquirer.prompt(questions)
-    .then(function(questions){
-        return getREADMEOutput(questions)
-    })
-    .then(function(READMEOutput){
-        return writeREADME('./README.md', READMEOutput);
+    .then(function(data){
+        const readme = generateMarkdown(data)
+
+        console.log(readme)
+        return writeToFile(readme)
     })
 }
 
