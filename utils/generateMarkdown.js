@@ -11,6 +11,9 @@ ${data.installation}\n
 ${data.usage}\n
 ## Contributing
 ${data.contributing}\n
+## Tests
+${data.tests}\n
+
 `;
 }
 

@@ -10,23 +10,27 @@ const thenableWriteREADME = util.promisify(fs.writeFile);
 const questions = [
     {
         name: 'title',
-        message: 'What would you like to title of your README?'
+        message: 'What would you like to title your generated README?'
     },
     {
         name: 'description',
-        message: 'Please describe the Project.'
+        message: 'Please describe the project.'
     },
     {
         name: 'installation',
-        message: 'Please describe the installation for the Project.'
+        message: 'Please describe the installation for the project.'
     },
     {
         name: 'usage',
-        message: 'Please provide instructions on how to use the Project.'
+        message: 'Please provide instructions on how to use the project.'
     },
     {
         name: 'contributing',
         message: 'Would you like to add any other developers that contributed to the project?'
+    },
+    {
+        name: 'tests',
+        message: 'Would you like to provide any tests for your project? Provide examples here.'
     }
 ];
 

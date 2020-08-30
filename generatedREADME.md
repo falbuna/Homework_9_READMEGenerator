@@ -1,8 +1,14 @@
-# The App
+# Title
 
 ## Description
-It does stuff
+It does stuff.
 
 ## Installation
-Install the Stuff
+Install it by doing stuff.
+
+## Usage
+First you do this.
+
+## Contributing
+
 
