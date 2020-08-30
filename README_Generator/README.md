@@ -1,21 +1,21 @@
 # Project Alpha
 
-(https://img.shields.io/badge/License-MIT-blue)
+![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-It allows you to do some stuff.
+Does Stuff
 
 ## Installation
-First this. Then that. Lastly that.
+First, do this. Then that. Lastly, that.
 
 ## Usage
-Do that.
+Install this first.
 
 # License
 This project is covered under the MIT license.
 
 ## Contributing
-That one guy.
+No
 
 ## Tests
 All the tests belong to us.
