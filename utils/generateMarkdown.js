@@ -7,6 +7,10 @@ function generateMarkdown(data) {
 ${data.description}\n
 ## Installation
 ${data.installation}\n
+## Usage
+${data.usage}\n
+## Contributing
+${data.contributing}\n
 `;
 }
 

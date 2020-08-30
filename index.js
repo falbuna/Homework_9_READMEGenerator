@@ -19,6 +19,14 @@ const questions = [
     {
         name: 'installation',
         message: 'Please describe the installation for the Project.'
+    },
+    {
+        name: 'usage',
+        message: 'Please provide instructions on how to use the Project.'
+    },
+    {
+        name: 'contributing',
+        message: 'Would you like to add any other developers that contributed to the project?'
     }
 ];
 
