@@ -1,24 +1,36 @@
-# Project A
+# Project Alpha
 
-![License|GNU LGPLv3](https://img.shields.io/badge/License-GNU LGPLv3-blue)
+![License|MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Table of Contents
 [Description](#Description)
+
 [Installation](#Installation)
+
+[Usage](#Usage)
+
+[License](#License)
+
+[Contributing](#Contributing)
+
+[Tests](#Tests)
+
+[Questions](#Questions)
+
 ## Description
-Does stuff
+It does stuff.
 
 ## Installation
-Do this stuff
+Start with this. Then that.
 
 ## Usage
-Stuff
+Do this first.
 
 # License
-This project is covered under the GNU LGPLv3 license.
+This project is covered under the MIT license.
 
 ## Contributing
-Yes
+Not Yes
 
 ## Tests
 All the tests.
