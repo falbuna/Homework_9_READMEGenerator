@@ -1,6 +1,6 @@
-# Project Alpha
+# README Generator
 
-![License|LGPL](https://img.shields.io/badge/License-LGPL-blue)
+![License|MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Table of Contents
 * [Description](#Description)
@@ -11,22 +11,22 @@
 * [Tests](#Tests)
 * [Questions](#Questions)
 ## Description
-It does Stuff
+This project will the user to create a README.md file using the following prompts in node.js
 
 ## Installation
-STuff
+First install node. Then do a npm install. Then type node index.js in console.
 
 ## Usage
-More Stuff
+Type node index.js in console.
 
 ## License
-This project is covered under the LGPL license.
+This project is covered under the MIT license.
 
 ## Contributing
-Not yet.
+Not Yet.
 
 ## Tests
-All the tests.
+No
 
 ## Questions
 If you have any questions regarding this project or README, please reach me at: falbuna1@gmail.com
