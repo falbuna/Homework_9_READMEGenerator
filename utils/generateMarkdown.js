@@ -2,8 +2,11 @@
 function generateMarkdown(data) {
   // console.log(data.title)
   // console.log(data.description)
-  return `# ${data.title}
-  
+  return `# ${data.title}\n
+## Description
+${data.description}\n
+## Installation
+${data.installation}\n
 `;
 }
 

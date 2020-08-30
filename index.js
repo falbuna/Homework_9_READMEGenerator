@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const generateMarkdown = require("./utils/generateMarkdown.js")
 
-const writeREADME = util.promisify(fs.writeFile);
+const thenableWriteREADME = util.promisify(fs.writeFile);
 
 // array of questions for user
 const questions = [
@@ -15,6 +15,10 @@ const questions = [
     {
         name: 'description',
         message: 'Please describe the Project.'
+    },
+    {
+        name: 'installation',
+        message: 'Please describe the installation for the Project.'
     }
 ];
 
@@ -27,10 +31,13 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
     .then(function(data){
-        const readme = generateMarkdown(data)
 
-        console.log(readme)
-        return writeToFile(readme)
+    return generateMarkdown(data)
+
+    }).then(function(readmeoutput){
+
+        return thenableWriteREADME('./generatedREADME.md', readmeoutput)
+
     })
 }
 
