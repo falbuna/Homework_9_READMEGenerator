@@ -26,11 +26,19 @@ const questions = [
     },
     {
         name: 'contributing',
-        message: 'Would you like to add any other developers that contributed to the project?'
+        message: 'Would you like to have any other developers contribute to the project?'
     },
     {
         name: 'tests',
         message: 'Would you like to provide any tests for your project? Provide examples here.'
+    },
+    {
+        name: 'email',
+        message: 'What is your email?'
+    },
+    {
+        name: 'github',
+        message: 'What is your Github?'
     }
 ];
 
