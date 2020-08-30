@@ -29,13 +29,13 @@ const questions = [
         name: "license",
         message: "What license would you like to use?",
         choices: [
-            'AGPL',
-            'GPL',
-            'MIT',
-            'LGPL',
-            'MPL',
-            'Apache', 
-            'BSL']
+            'GNU AGPLv3',
+            'GNU GPLv3',
+            'GNU LGPLv3',
+            'MPL 2.0',
+            'Apache 2.0',
+            'MIT', 
+            'BSL 1.0']
     },
     {
         name: 'contributing',
