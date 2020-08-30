@@ -1,6 +1,6 @@
 # Project Alpha
 
-(https://img.shields.io/badge/License-MIT-blue)
+[https://img.shields.io/badge/License-MIT-blue]
 
 ## Description
 This project allowed me to do some stuff.
