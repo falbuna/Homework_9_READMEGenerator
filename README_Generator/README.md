@@ -1,16 +1,19 @@
-# Project App
+# Y
 
 ## Description
-It does stuff.
+Y
 
 ## Installation
-First you do this. Then that. Lastly, that.
+Y
 
 ## Usage
-Open this.
+Y
+
+# License
+MIT
 
 ## Contributing
-YEs
+Yes
 
 ## Tests
 Yes

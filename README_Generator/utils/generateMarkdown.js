@@ -7,6 +7,8 @@ ${data.description}\n
 ${data.installation}\n
 ## Usage
 ${data.usage}\n
+# License
+${data.license}\n
 ## Contributing
 ${data.contributing}\n
 ## Tests

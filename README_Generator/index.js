@@ -25,6 +25,19 @@ const questions = [
         message: 'Please provide instructions on how to use the project.'
     },
     {
+        type: "list",
+        name: "license",
+        message: "What license would you like to use?",
+        choices: [
+            'AGPL',
+            'GPL',
+            'MIT',
+            'LGPL',
+            'MPL',
+            'Apache', 
+            'BSL']
+    },
+    {
         name: 'contributing',
         message: 'Would you like to have any other developers contribute to the project?'
     },
@@ -58,6 +71,12 @@ function init() {
 
         return thenableWriteREADME('./README.md', readmeoutput)
 
+    })
+    .then(function(){
+        console.log('Completed.')
+    })
+    .catch(function (error){
+        console.log('An error.', error);
     })
 }
 
