@@ -1,36 +1,29 @@
 # Project Alpha
 
-![License|MIT](https://img.shields.io/badge/License-MIT-blue)
+![License|LGPL](https://img.shields.io/badge/License-LGPL-blue)
 
 ## Table of Contents
-[Description](#Description)
-
-[Installation](#Installation)
-
-[Usage](#Usage)
-
-[License](#License)
-
-[Contributing](#Contributing)
-
-[Tests](#Tests)
-
-[Questions](#Questions)
-
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#Contributing)
+* [Tests](#Tests)
+* [Questions](#Questions)
 ## Description
-It does stuff.
+It does Stuff
 
 ## Installation
-Start with this. Then that.
+STuff
 
 ## Usage
-Do this first.
+More Stuff
 
-# License
-This project is covered under the MIT license.
+## License
+This project is covered under the LGPL license.
 
 ## Contributing
-Not Yes
+Not yet.
 
 ## Tests
 All the tests.
