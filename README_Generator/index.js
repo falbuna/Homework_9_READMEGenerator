@@ -56,7 +56,7 @@ function init() {
 
     }).then(function(readmeoutput){
 
-        return thenableWriteREADME('./generatedREADME.md', readmeoutput)
+        return thenableWriteREADME('./README.md', readmeoutput)
 
     })
 }

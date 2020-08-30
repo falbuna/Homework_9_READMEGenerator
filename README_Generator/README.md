@@ -1,16 +1,16 @@
 # Project App
 
 ## Description
-It does some stuff then some other stuff.
+It does stuff.
 
 ## Installation
-Do this. Then this. Lastly, that.
+First you do this. Then that. Lastly, that.
 
 ## Usage
-Use if needed.
+Open this.
 
 ## Contributing
-No
+YEs
 
 ## Tests
 Yes
