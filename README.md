@@ -24,3 +24,4 @@ To install, the user will need to have Node.js installed. In the console (Bash, 
 
 ## Usage
 
+To start the application, the user will need to input "node index.js" into the console.

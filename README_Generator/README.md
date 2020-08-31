@@ -11,22 +11,22 @@
 * [Tests](#Tests)
 * [Questions](#Questions)
 ## Description
-This project will the user to create a README.md file using the following prompts in node.js
+The application will generate a README.md file from the prompts using Inquirer. As the user goes through each of the prompts, they will enter the information that they want added to the README.md file. 
 
 ## Installation
-First install node. Then do a npm install. Then type node index.js in console.
+The user will need to have node.js installed on their computer. They will also need to have the Inquirer packed installed on the computer. The user will need to type "npm install" on the console.
 
 ## Usage
-Type node index.js in console.
+To use the application, the user will need to type in "node index.js" inside the folder that contains the application. Then the user will be given prompts that will be user will answer to have the inputs genterated into the README.md file.
 
 ## License
 This project is covered under the MIT license.
 
 ## Contributing
-Not Yet.
+Please email me if you would like to contribute to the application.
 
 ## Tests
-No
+Not right now.
 
 ## Questions
 If you have any questions regarding this project or README, please reach me at: falbuna1@gmail.com
