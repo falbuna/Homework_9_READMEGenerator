@@ -38,7 +38,7 @@ After all of the prompts have been answered, the user will see "Completed."
 
 The user should see a new READMD.md file inside the folder that contains the application.
 
-![Generated README.md file]
+![Generated README.md file](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/README.png)
 
 ## Questions
 
