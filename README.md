@@ -20,7 +20,7 @@ This application uses node.js and the Inquirer package to dynamically generate a
 
 ## Installation
 
-To install, the user will need to have Node.js installed. In the console (Bash, Powershell, or Terminal for Mac), the user will need to navigate to the folder that contains the index.js file. Once inside the folder, the user will need to ensure that the Inquirer npm package is installed. To do this, they will need to type in "npm install" inside the folder that contains the index.js file. Once installed, they can use this application.
+To install this application, the user will need to have Node.js installed on their computer. In the console (Bash, Powershell, or Terminal for Mac), the user will need to navigate to the folder that contains the index.js file. Once inside the folder, the user will need to ensure that the Inquirer npm package is installed. To do this, they will need to type in "npm install" inside the folder that contains the index.js file. Once installed, they can use this application.
 
 ## Usage
 
@@ -35,6 +35,10 @@ The user will be given prompts for the Project/Application. The information for 
 After all of the prompts have been answered, the user will see "Completed."
 
 ![Completed](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Success.png)
+
+The user should see a new READMD.md file inside the folder that contains the application.
+
+![Generated README.md file]
 
 ## Questions
 
