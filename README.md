@@ -32,5 +32,13 @@ The user will be given prompts for the Project/Application. The information for 
 
 ![User prompts and inputs using the application](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Prompts.png)
 
+After all of the prompts have been answered, the user will see "Completed."
 
+![Completed](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Success.png)
+
+## Questions
+
+If you have any questions regarding the README Generator, please reach me at: falbuna1@gmail.com
+
+My Github can be found here: [https://github.com/falbuna/](https://github.com/falbuna/)
 
