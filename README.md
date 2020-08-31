@@ -25,3 +25,12 @@ To install, the user will need to have Node.js installed. In the console (Bash, 
 ## Usage
 
 To start the application, the user will need to input "node index.js" into the console.
+
+![Windows PowerShell with node index.js type into the console.](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Initial.png)
+
+The user will be given prompts for the Project/Application. The information for the README.md file will be collected from the user input from the prompts for the Title, Description, Installation, Usage, License, Contributors, Tests, email and finally Github account.
+
+![User prompts and inputs using the application](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Prompts.png)
+
+
+

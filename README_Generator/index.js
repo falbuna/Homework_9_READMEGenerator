@@ -51,7 +51,7 @@ const questions = [
     },
     {
         name: 'github',
-        message: 'What is your Github?'
+        message: 'What is your Github account?'
     }
 ];
 
