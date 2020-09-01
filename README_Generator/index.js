@@ -1,7 +1,11 @@
+// Inquirer Module
 const inquirer = require('inquirer');
+// Util Module
 const util = require('util');
+// File System Module
 const fs = require('fs');
 
+// Module Export
 const generateMarkdown = require("./utils/generateMarkdown.js")
 
 const thenableWriteREADME = util.promisify(fs.writeFile);
@@ -64,7 +68,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
     .then(function(data){
-
+    // Returns the generateMarkdown Module with the user input from questions
     return generateMarkdown(data)
 
     }).then(function(readmeoutput){
@@ -73,9 +77,11 @@ function init() {
 
     })
     .then(function(){
+        // If successful, returns Completed.
         console.log('Completed.')
     })
     .catch(function (error){
+        // If there is an error, returns An error.
         console.log('An error.', error);
     })
 }
