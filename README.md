@@ -28,7 +28,7 @@ To start the application, the user will need to input "node index.js" into the c
 
 ![Windows PowerShell with node index.js type into the console.](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Initial.png)
 
-The user will be given prompts for the Project/Application. The information for the README.md file will be collected from the user input from the prompts for the Title, Description, Installation, Usage, License, Contributors, Tests, email and finally Github account.
+The user will be given prompts for the Project/Application. The information for the README.md file will be collected from the user input from the Inquirer prompts for the Title, Description, Installation, Usage, License, Contributors, Tests, email and Questions.
 
 ![User prompts and inputs using the application](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Prompts.png)
 
@@ -36,7 +36,7 @@ After all of the prompts have been answered, the user will see "Completed."
 
 ![Completed](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Success.png)
 
-The user should see a new READMD.md file inside the folder that contains the application.
+The user should see a new README.md file inside the folder that contains the application.
 
 ![Generated README.md file](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/README.png)
 
