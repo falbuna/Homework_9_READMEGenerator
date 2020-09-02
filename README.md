@@ -40,7 +40,7 @@ The user should see a new README.md file inside the folder that contains the app
 
 ![Generated README.md file](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/README.png)
 
-For a short video on how to use the application can be found here: [https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Homework_9_Walkthrough.mp4](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Homework_9_Walkthrough.mp4)
+If you want to watch a short video on how to use the application, it can be downloaded here: [https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Homework_9_Walkthrough.mp4](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Homework_9_Walkthrough.mp4)
 
 ## Questions
 
