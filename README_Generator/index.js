@@ -62,6 +62,8 @@ const questions = [
 // function to write README file
 function writeToFile(fileName, data) {
 
+    return thenableWriteREADME(fileName, data)
+
 }
 
 // function to initialize program
@@ -73,7 +75,7 @@ function init() {
 
     }).then(function(readmeoutput){
 
-        return thenableWriteREADME('./README.md', readmeoutput)
+        return writeToFile('./README.md', readmeoutput)
 
     })
     .then(function(){

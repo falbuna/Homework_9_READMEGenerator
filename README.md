@@ -40,6 +40,8 @@ The user should see a new README.md file inside the folder that contains the app
 
 ![Generated README.md file](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/README.png)
 
+For a short video on how to use the application can be found here: [https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Homework_9_Walkthrough.mp4](https://github.com/falbuna/Homework_9_READMEGenerator/blob/master/Assets/Homework_9_Walkthrough.mp4)
+
 ## Questions
 
 If you have any questions regarding the README Generator, please reach me at: falbuna1@gmail.com
